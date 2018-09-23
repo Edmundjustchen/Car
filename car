@@ -1,0 +1,17 @@
+class car{
+prviate string name;
+prviate int tank;
+prviate float oilConsumption;
+public car(string name){
+this.name=name;}
+public car(int tank){
+this.tank=tank;}
+public car(float oilConsumption){
+this.oilConsumption=oilConsumption;}
+public void gas();
+public void run();}
+public classs test{
+public stalic void main(string[],argc){
+car carname=new car("x7600");
+car cartank=new car(1);
+car caroilConsumption=new(4.0);}
